@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+
+# Restricted source material and private linkage artifacts.
+source_pdfs/
+private/
+private_root/
+*hmac_secret*
+source_to_public_mapping.csv
+excluded_source_inventory.csv
+*.log
+*.pid
+
+# Large full-release outputs should be downloaded or generated outside this repo.
+release/
+full_release/
+records100/
+records500/
+validity_masks/

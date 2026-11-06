@@ -1,0 +1,5 @@
+ecg_id,template,layout_subtype,standard_path_count,rhythm_path_count,observed_fraction,overlap_correlation,trace_mean_max_abs,trace_std_max_abs_error
+1,PSCRIPT,PSCRIPT,12,1,0.541667,"{""II"": 1.0}",0.0,2.9e-05
+3,MUSE,MUSE,12,3,0.4375,"{""V1"": 0.999939, ""II"": 1.0, ""V5"": 0.999999}",0.0,1.2e-05
+8,EDAN,EDAN,12,1,0.541667,"{""II"": 0.999999}",0.0,2.7e-05
+149,PSCRIPT,PSCRIPT_BUNDLE,12,1,0.541667,"{""II"": 1.0}",0.0,4.6e-05

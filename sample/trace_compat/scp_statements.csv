@@ -1,0 +1,7 @@
+scp_code,description,diagnostic,form,rhythm,diagnostic_class,diagnostic_subclass,Statement Category,SCP-ECG Statement Description,AHA code,aECG REFID,CDISC Code,DICOM Code
+AFIB,atrial fibrillation,,,1.0,,,Statements related to impulse formation (abnormalities),atrial fibrillation,50.0,MDC_ECG_RHY_ATR_FIB,,D3-31520
+ISC_,non-specific ischemic,1.0,,,STTC,ISC_,Basic roots for coding ST-T changes and abnormalities,ischemic ST-T changes,226.0,,,
+NDT,non-diagnostic T abnormalities,1.0,1.0,,STTC,STTC,other ST-T descriptive statements,non-diagnostic T abnormalities,,,,
+NORM,normal ECG,1.0,,,NORM,NORM,Normal/abnormal,normal ECG,1.0,,,F-000B7
+SR,sinus rhythm,,,1.0,,,Statements related to impulse formation (abnormalities),sinus rhythm,20.0,MDC_ECG_RHY_SINUS_RHY,,
+TAB_,T-wave abnormality,,1.0,,,,Basic roots for coding ST-T changes and abnormalities,T-wave abnormality,147.0,,,

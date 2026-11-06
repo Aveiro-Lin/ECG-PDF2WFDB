@@ -1,0 +1,5 @@
+The example records are a small de-identified subset of a separately
+distributed clinical ECG release. They retain that release's data terms
+and attribution requirements. The authoritative provenance, governance
+and version information are supplied by the source data record.
+Licence reference: https://creativecommons.org/licenses/by/4.0/

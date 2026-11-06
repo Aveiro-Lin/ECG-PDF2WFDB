@@ -1,0 +1,5 @@
+row_index,ecg_id,record_uid,has_trace_input,has_diagnosis_text,has_any_mapped_scp_code,has_five_superclass_target,diagnostic_superclasses,has_age,has_sex,recommended_split
+0,1,REC3CD6BAFA74FA380E,True,True,True,True,['STTC'],True,True,external_test
+1,3,REC37AA9AC4F9D84DFB,True,True,True,True,['NORM'],True,True,external_test
+2,8,REC9136F32DCA1CB619,True,True,True,True,['STTC'],True,True,external_test
+3,149,REC7011CD1C0801FE8E,True,True,True,True,['NORM'],True,True,external_test

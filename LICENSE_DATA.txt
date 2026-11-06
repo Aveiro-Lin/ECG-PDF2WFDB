@@ -1,0 +1,7 @@
+The processing code in this repository is MIT-licensed.
+
+The example records in `sample/` are a small subset of an externally distributed
+clinical ECG release. They retain that source release's data licence, attribution
+and reuse conditions. The authoritative source data record supplies the final
+licence text, provenance and version information. Do not apply the software MIT
+licence to the underlying example data.
